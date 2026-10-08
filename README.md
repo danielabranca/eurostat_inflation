@@ -4,6 +4,8 @@
 
 **The Rising Cost of Living in Portugal: An Analysis of Consumer Price Inflation**
 
+Check for the interactive dashboard on [this Streamlit app.](https://eurostatinflation.streamlit.app/)
+
 ---
 
 ## 1. Project Overview
