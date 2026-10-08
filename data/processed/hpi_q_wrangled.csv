@@ -1,0 +1,523 @@
+purchase,country,date,house_price_growth_quarterly
+Purchases of existing dwellings,Germany,2019Q1,0.0
+Purchases of existing dwellings,Germany,2019Q2,2.8
+Purchases of existing dwellings,Germany,2019Q3,1.3
+Purchases of existing dwellings,Germany,2019Q4,2.3
+Purchases of existing dwellings,Germany,2020Q1,1.1
+Purchases of existing dwellings,Germany,2020Q2,1.6
+Purchases of existing dwellings,Germany,2020Q3,3.3
+Purchases of existing dwellings,Germany,2020Q4,2.8
+Purchases of existing dwellings,Germany,2021Q1,1.9
+Purchases of existing dwellings,Germany,2021Q2,3.8
+Purchases of existing dwellings,Germany,2021Q3,4.4
+Purchases of existing dwellings,Germany,2021Q4,2.7
+Purchases of existing dwellings,Germany,2022Q1,1.3
+Purchases of existing dwellings,Germany,2022Q2,1.9
+Purchases of existing dwellings,Germany,2022Q3,-1.0
+Purchases of existing dwellings,Germany,2022Q4,-5.2
+Purchases of existing dwellings,Germany,2023Q1,-3.2
+Purchases of existing dwellings,Germany,2023Q2,-1.4
+Purchases of existing dwellings,Germany,2023Q3,-2.0
+Purchases of existing dwellings,Germany,2023Q4,-2.0
+Purchases of existing dwellings,Germany,2024Q1,-0.5
+Purchases of existing dwellings,Germany,2024Q2,1.5
+Purchases of existing dwellings,Germany,2024Q3,0.5
+Purchases of existing dwellings,Germany,2024Q4,0.3
+Purchases of existing dwellings,Germany,2025Q1,1.3
+Purchases of existing dwellings,Germany,2025Q2,1.0
+Purchases of existing dwellings,Germany,2025Q3,0.9
+Purchases of existing dwellings,Germany,2025Q4,-0.8
+Purchases of existing dwellings,Germany,2026Q1,0.1
+Purchases of existing dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2019Q1,0.4
+Purchases of existing dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2019Q2,1.9
+Purchases of existing dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2019Q3,1.4
+Purchases of existing dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2019Q4,0.7
+Purchases of existing dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2020Q1,1.2
+Purchases of existing dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2020Q2,1.7
+Purchases of existing dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2020Q3,1.3
+Purchases of existing dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2020Q4,1.3
+Purchases of existing dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2021Q1,1.6
+Purchases of existing dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2021Q2,3.0
+Purchases of existing dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2021Q3,3.3
+Purchases of existing dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2021Q4,1.7
+Purchases of existing dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2022Q1,1.9
+Purchases of existing dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2022Q2,2.0
+Purchases of existing dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2022Q3,0.9
+Purchases of existing dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2022Q4,-2.3
+Purchases of existing dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2023Q1,-1.1
+Purchases of existing dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2023Q2,0.0
+Purchases of existing dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2023Q3,0.0
+Purchases of existing dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2023Q4,-1.0
+Purchases of existing dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2024Q1,0.0
+Purchases of existing dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2024Q2,1.8
+Purchases of existing dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2024Q3,1.5
+Purchases of existing dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2024Q4,0.4
+Purchases of existing dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2025Q1,1.5
+Purchases of existing dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2025Q2,1.7
+Purchases of existing dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2025Q3,1.5
+Purchases of existing dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2025Q4,0.3
+Purchases of existing dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2026Q1,1.0
+Purchases of existing dwellings,Spain,2019Q1,1.1
+Purchases of existing dwellings,Spain,2019Q2,1.4
+Purchases of existing dwellings,Spain,2019Q3,1.6
+Purchases of existing dwellings,Spain,2019Q4,-0.7
+Purchases of existing dwellings,Spain,2020Q1,0.5
+Purchases of existing dwellings,Spain,2020Q2,0.5
+Purchases of existing dwellings,Spain,2020Q3,0.6
+Purchases of existing dwellings,Spain,2020Q4,-1.0
+Purchases of existing dwellings,Spain,2021Q1,0.7
+Purchases of existing dwellings,Spain,2021Q2,2.7
+Purchases of existing dwellings,Spain,2021Q3,1.9
+Purchases of existing dwellings,Spain,2021Q4,1.0
+Purchases of existing dwellings,Spain,2022Q1,2.4
+Purchases of existing dwellings,Spain,2022Q2,2.3
+Purchases of existing dwellings,Spain,2022Q3,1.9
+Purchases of existing dwellings,Spain,2022Q4,-1.4
+Purchases of existing dwellings,Spain,2023Q1,0.2
+Purchases of existing dwellings,Spain,2023Q2,2.2
+Purchases of existing dwellings,Spain,2023Q3,2.3
+Purchases of existing dwellings,Spain,2023Q4,-1.0
+Purchases of existing dwellings,Spain,2024Q1,2.2
+Purchases of existing dwellings,Spain,2024Q2,3.7
+Purchases of existing dwellings,Spain,2024Q3,2.8
+Purchases of existing dwellings,Spain,2024Q4,2.0
+Purchases of existing dwellings,Spain,2025Q1,3.2
+Purchases of existing dwellings,Spain,2025Q2,4.2
+Purchases of existing dwellings,Spain,2025Q3,3.3
+Purchases of existing dwellings,Spain,2025Q4,1.8
+Purchases of existing dwellings,Spain,2026Q1,3.5
+Purchases of existing dwellings,France,2019Q1,0.0
+Purchases of existing dwellings,France,2019Q2,1.0
+Purchases of existing dwellings,France,2019Q3,2.5
+Purchases of existing dwellings,France,2019Q4,0.2
+Purchases of existing dwellings,France,2020Q1,1.1
+Purchases of existing dwellings,France,2020Q2,1.7
+Purchases of existing dwellings,France,2020Q3,2.1
+Purchases of existing dwellings,France,2020Q4,1.3
+Purchases of existing dwellings,France,2021Q1,0.7
+Purchases of existing dwellings,France,2021Q2,2.0
+Purchases of existing dwellings,France,2021Q3,3.3
+Purchases of existing dwellings,France,2021Q4,1.0
+Purchases of existing dwellings,France,2022Q1,0.9
+Purchases of existing dwellings,France,2022Q2,1.6
+Purchases of existing dwellings,France,2022Q3,2.9
+Purchases of existing dwellings,France,2022Q4,-0.8
+Purchases of existing dwellings,France,2023Q1,-1.0
+Purchases of existing dwellings,France,2023Q2,-0.6
+Purchases of existing dwellings,France,2023Q3,0.5
+Purchases of existing dwellings,France,2023Q4,-2.9
+Purchases of existing dwellings,France,2024Q1,-2.3
+Purchases of existing dwellings,France,2024Q2,-0.3
+Purchases of existing dwellings,France,2024Q3,1.6
+Purchases of existing dwellings,France,2024Q4,-1.2
+Purchases of existing dwellings,France,2025Q1,0.1
+Purchases of existing dwellings,France,2025Q2,0.0
+Purchases of existing dwellings,France,2025Q3,1.7
+Purchases of existing dwellings,France,2025Q4,-0.8
+Purchases of existing dwellings,France,2026Q1,-0.7
+Purchases of existing dwellings,Italy,2019Q1,-0.6
+Purchases of existing dwellings,Italy,2019Q2,1.6
+Purchases of existing dwellings,Italy,2019Q3,-0.6
+Purchases of existing dwellings,Italy,2019Q4,-0.5
+Purchases of existing dwellings,Italy,2020Q1,1.3
+Purchases of existing dwellings,Italy,2020Q2,3.3
+Purchases of existing dwellings,Italy,2020Q3,-3.3
+Purchases of existing dwellings,Italy,2020Q4,0.2
+Purchases of existing dwellings,Italy,2021Q1,1.1
+Purchases of existing dwellings,Italy,2021Q2,1.9
+Purchases of existing dwellings,Italy,2021Q3,0.8
+Purchases of existing dwellings,Italy,2021Q4,-0.1
+Purchases of existing dwellings,Italy,2022Q1,1.8
+Purchases of existing dwellings,Italy,2022Q2,1.4
+Purchases of existing dwellings,Italy,2022Q3,-0.2
+Purchases of existing dwellings,Italy,2022Q4,-0.6
+Purchases of existing dwellings,Italy,2023Q1,-0.3
+Purchases of existing dwellings,Italy,2023Q2,1.8
+Purchases of existing dwellings,Italy,2023Q3,-0.4
+Purchases of existing dwellings,Italy,2023Q4,-0.9
+Purchases of existing dwellings,Italy,2024Q1,0.2
+Purchases of existing dwellings,Italy,2024Q2,2.9
+Purchases of existing dwellings,Italy,2024Q3,0.4
+Purchases of existing dwellings,Italy,2024Q4,0.0
+Purchases of existing dwellings,Italy,2025Q1,1.7
+Purchases of existing dwellings,Italy,2025Q2,2.3
+Purchases of existing dwellings,Italy,2025Q3,0.2
+Purchases of existing dwellings,Italy,2025Q4,0.7
+Purchases of existing dwellings,Italy,2026Q1,1.5
+Purchases of existing dwellings,Portugal,2019Q1,4.0
+Purchases of existing dwellings,Portugal,2019Q2,2.2
+Purchases of existing dwellings,Portugal,2019Q3,2.4
+Purchases of existing dwellings,Portugal,2019Q4,1.9
+Purchases of existing dwellings,Portugal,2020Q1,3.9
+Purchases of existing dwellings,Portugal,2020Q2,1.8
+Purchases of existing dwellings,Portugal,2020Q3,-0.5
+Purchases of existing dwellings,Portugal,2020Q4,2.7
+Purchases of existing dwellings,Portugal,2021Q1,2.9
+Purchases of existing dwellings,Portugal,2021Q2,2.9
+Purchases of existing dwellings,Portugal,2021Q3,2.6
+Purchases of existing dwellings,Portugal,2021Q4,3.1
+Purchases of existing dwellings,Portugal,2022Q1,4.4
+Purchases of existing dwellings,Portugal,2022Q2,3.9
+Purchases of existing dwellings,Portugal,2022Q3,2.6
+Purchases of existing dwellings,Portugal,2022Q4,1.3
+Purchases of existing dwellings,Portugal,2023Q1,1.6
+Purchases of existing dwellings,Portugal,2023Q2,3.2
+Purchases of existing dwellings,Portugal,2023Q3,1.8
+Purchases of existing dwellings,Portugal,2023Q4,1.3
+Purchases of existing dwellings,Portugal,2024Q1,1.1
+Purchases of existing dwellings,Portugal,2024Q2,3.9
+Purchases of existing dwellings,Portugal,2024Q3,3.8
+Purchases of existing dwellings,Portugal,2024Q4,3.0
+Purchases of existing dwellings,Portugal,2025Q1,5.3
+Purchases of existing dwellings,Portugal,2025Q2,5.1
+Purchases of existing dwellings,Portugal,2025Q3,4.5
+Purchases of existing dwellings,Portugal,2025Q4,4.6
+Purchases of existing dwellings,Portugal,2026Q1,4.2
+Purchases of newly built dwellings,Germany,2019Q1,-0.4
+Purchases of newly built dwellings,Germany,2019Q2,1.5
+Purchases of newly built dwellings,Germany,2019Q3,1.6
+Purchases of newly built dwellings,Germany,2019Q4,3.2
+Purchases of newly built dwellings,Germany,2020Q1,-0.9
+Purchases of newly built dwellings,Germany,2020Q2,2.5
+Purchases of newly built dwellings,Germany,2020Q3,1.6
+Purchases of newly built dwellings,Germany,2020Q4,3.2
+Purchases of newly built dwellings,Germany,2021Q1,-1.7
+Purchases of newly built dwellings,Germany,2021Q2,3.7
+Purchases of newly built dwellings,Germany,2021Q3,2.8
+Purchases of newly built dwellings,Germany,2021Q4,3.3
+Purchases of newly built dwellings,Germany,2022Q1,-1.1
+Purchases of newly built dwellings,Germany,2022Q2,2.8
+Purchases of newly built dwellings,Germany,2022Q3,1.2
+Purchases of newly built dwellings,Germany,2022Q4,-0.8
+Purchases of newly built dwellings,Germany,2023Q1,-2.2
+Purchases of newly built dwellings,Germany,2023Q2,-1.4
+Purchases of newly built dwellings,Germany,2023Q3,0.7
+Purchases of newly built dwellings,Germany,2023Q4,-1.1
+Purchases of newly built dwellings,Germany,2024Q1,-0.4
+Purchases of newly built dwellings,Germany,2024Q2,1.5
+Purchases of newly built dwellings,Germany,2024Q3,1.5
+Purchases of newly built dwellings,Germany,2024Q4,-0.3
+Purchases of newly built dwellings,Germany,2025Q1,1.8
+Purchases of newly built dwellings,Germany,2025Q2,-0.1
+Purchases of newly built dwellings,Germany,2025Q3,0.1
+Purchases of newly built dwellings,Germany,2025Q4,0.9
+Purchases of newly built dwellings,Germany,2026Q1,1.2
+Purchases of newly built dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2019Q1,0.5
+Purchases of newly built dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2019Q2,1.6
+Purchases of newly built dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2019Q3,1.5
+Purchases of newly built dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2019Q4,1.3
+Purchases of newly built dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2020Q1,0.8
+Purchases of newly built dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2020Q2,1.2
+Purchases of newly built dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2020Q3,1.6
+Purchases of newly built dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2020Q4,1.6
+Purchases of newly built dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2021Q1,0.5
+Purchases of newly built dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2021Q2,1.8
+Purchases of newly built dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2021Q3,2.7
+Purchases of newly built dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2021Q4,2.3
+Purchases of newly built dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2022Q1,1.3
+Purchases of newly built dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2022Q2,3.2
+Purchases of newly built dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2022Q3,0.7
+Purchases of newly built dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2022Q4,0.7
+Purchases of newly built dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2023Q1,0.2
+Purchases of newly built dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2023Q2,0.9
+Purchases of newly built dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2023Q3,1.2
+Purchases of newly built dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2023Q4,0.6
+Purchases of newly built dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2024Q1,0.4
+Purchases of newly built dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2024Q2,2.0
+Purchases of newly built dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2024Q3,1.7
+Purchases of newly built dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2024Q4,1.1
+Purchases of newly built dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2025Q1,0.3
+Purchases of newly built dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2025Q2,1.3
+Purchases of newly built dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2025Q3,1.4
+Purchases of newly built dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2025Q4,1.2
+Purchases of newly built dwellings,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2026Q1,0.7
+Purchases of newly built dwellings,Spain,2019Q1,4.3
+Purchases of newly built dwellings,Spain,2019Q2,-0.4
+Purchases of newly built dwellings,Spain,2019Q3,1.8
+Purchases of newly built dwellings,Spain,2019Q4,-0.4
+Purchases of newly built dwellings,Spain,2020Q1,5.2
+Purchases of newly built dwellings,Spain,2020Q2,-2.2
+Purchases of newly built dwellings,Spain,2020Q3,4.8
+Purchases of newly built dwellings,Spain,2020Q4,0.5
+Purchases of newly built dwellings,Spain,2021Q1,-0.5
+Purchases of newly built dwellings,Spain,2021Q2,1.1
+Purchases of newly built dwellings,Spain,2021Q3,2.9
+Purchases of newly built dwellings,Spain,2021Q4,2.3
+Purchases of newly built dwellings,Spain,2022Q1,3.3
+Purchases of newly built dwellings,Spain,2022Q2,0.0
+Purchases of newly built dwellings,Spain,2022Q3,0.9
+Purchases of newly built dwellings,Spain,2022Q4,1.9
+Purchases of newly built dwellings,Spain,2023Q1,3.2
+Purchases of newly built dwellings,Spain,2023Q2,1.6
+Purchases of newly built dwellings,Spain,2023Q3,3.8
+Purchases of newly built dwellings,Spain,2023Q4,-1.3
+Purchases of newly built dwellings,Spain,2024Q1,5.5
+Purchases of newly built dwellings,Spain,2024Q2,2.7
+Purchases of newly built dwellings,Spain,2024Q3,2.8
+Purchases of newly built dwellings,Spain,2024Q4,0.8
+Purchases of newly built dwellings,Spain,2025Q1,5.5
+Purchases of newly built dwellings,Spain,2025Q2,2.7
+Purchases of newly built dwellings,Spain,2025Q3,0.5
+Purchases of newly built dwellings,Spain,2025Q4,2.2
+Purchases of newly built dwellings,Spain,2026Q1,3.5
+Purchases of newly built dwellings,France,2019Q1,-0.1
+Purchases of newly built dwellings,France,2019Q2,2.1
+Purchases of newly built dwellings,France,2019Q3,0.8
+Purchases of newly built dwellings,France,2019Q4,1.1
+Purchases of newly built dwellings,France,2020Q1,0.5
+Purchases of newly built dwellings,France,2020Q2,-0.2
+Purchases of newly built dwellings,France,2020Q3,1.3
+Purchases of newly built dwellings,France,2020Q4,0.9
+Purchases of newly built dwellings,France,2021Q1,1.5
+Purchases of newly built dwellings,France,2021Q2,1.2
+Purchases of newly built dwellings,France,2021Q3,1.1
+Purchases of newly built dwellings,France,2021Q4,1.5
+Purchases of newly built dwellings,France,2022Q1,0.7
+Purchases of newly built dwellings,France,2022Q2,2.9
+Purchases of newly built dwellings,France,2022Q3,1.3
+Purchases of newly built dwellings,France,2022Q4,0.4
+Purchases of newly built dwellings,France,2023Q1,-0.1
+Purchases of newly built dwellings,France,2023Q2,0.3
+Purchases of newly built dwellings,France,2023Q3,-0.4
+Purchases of newly built dwellings,France,2023Q4,-0.7
+Purchases of newly built dwellings,France,2024Q1,-0.6
+Purchases of newly built dwellings,France,2024Q2,0.2
+Purchases of newly built dwellings,France,2024Q3,0.8
+Purchases of newly built dwellings,France,2024Q4,0.1
+Purchases of newly built dwellings,France,2025Q1,0.9
+Purchases of newly built dwellings,France,2025Q2,0.3
+Purchases of newly built dwellings,France,2025Q3,-0.3
+Purchases of newly built dwellings,France,2025Q4,-0.3
+Purchases of newly built dwellings,France,2026Q1,0.4
+Purchases of newly built dwellings,Italy,2019Q1,-0.6
+Purchases of newly built dwellings,Italy,2019Q2,0.3
+Purchases of newly built dwellings,Italy,2019Q3,0.8
+Purchases of newly built dwellings,Italy,2019Q4,1.0
+Purchases of newly built dwellings,Italy,2020Q1,-1.0
+Purchases of newly built dwellings,Italy,2020Q2,1.9
+Purchases of newly built dwellings,Italy,2020Q3,1.0
+Purchases of newly built dwellings,Italy,2020Q4,-0.1
+Purchases of newly built dwellings,Italy,2021Q1,1.0
+Purchases of newly built dwellings,Italy,2021Q2,0.1
+Purchases of newly built dwellings,Italy,2021Q3,3.1
+Purchases of newly built dwellings,Italy,2021Q4,1.1
+Purchases of newly built dwellings,Italy,2022Q1,0.7
+Purchases of newly built dwellings,Italy,2022Q2,6.7
+Purchases of newly built dwellings,Italy,2022Q3,-5.3
+Purchases of newly built dwellings,Italy,2022Q4,2.7
+Purchases of newly built dwellings,Italy,2023Q1,1.4
+Purchases of newly built dwellings,Italy,2023Q2,2.0
+Purchases of newly built dwellings,Italy,2023Q3,1.5
+Purchases of newly built dwellings,Italy,2023Q4,3.6
+Purchases of newly built dwellings,Italy,2024Q1,-1.9
+Purchases of newly built dwellings,Italy,2024Q2,4.8
+Purchases of newly built dwellings,Italy,2024Q3,2.2
+Purchases of newly built dwellings,Italy,2024Q4,3.9
+Purchases of newly built dwellings,Italy,2025Q1,-8.7
+Purchases of newly built dwellings,Italy,2025Q2,4.3
+Purchases of newly built dwellings,Italy,2025Q3,2.4
+Purchases of newly built dwellings,Italy,2025Q4,1.4
+Purchases of newly built dwellings,Italy,2026Q1,-1.5
+Purchases of newly built dwellings,Portugal,2019Q1,2.0
+Purchases of newly built dwellings,Portugal,2019Q2,4.2
+Purchases of newly built dwellings,Portugal,2019Q3,1.2
+Purchases of newly built dwellings,Portugal,2019Q4,0.7
+Purchases of newly built dwellings,Portugal,2020Q1,3.6
+Purchases of newly built dwellings,Portugal,2020Q2,1.4
+Purchases of newly built dwellings,Portugal,2020Q3,-0.3
+Purchases of newly built dwellings,Portugal,2020Q4,2.7
+Purchases of newly built dwellings,Portugal,2021Q1,1.5
+Purchases of newly built dwellings,Portugal,2021Q2,3.0
+Purchases of newly built dwellings,Portugal,2021Q3,4.0
+Purchases of newly built dwellings,Portugal,2021Q4,1.7
+Purchases of newly built dwellings,Portugal,2022Q1,1.8
+Purchases of newly built dwellings,Portugal,2022Q2,0.6
+Purchases of newly built dwellings,Portugal,2022Q3,4.0
+Purchases of newly built dwellings,Portugal,2022Q4,0.5
+Purchases of newly built dwellings,Portugal,2023Q1,0.5
+Purchases of newly built dwellings,Portugal,2023Q2,2.8
+Purchases of newly built dwellings,Portugal,2023Q3,2.0
+Purchases of newly built dwellings,Portugal,2023Q4,1.5
+Purchases of newly built dwellings,Portugal,2024Q1,-0.8
+Purchases of newly built dwellings,Portugal,2024Q2,3.8
+Purchases of newly built dwellings,Portugal,2024Q3,3.3
+Purchases of newly built dwellings,Portugal,2024Q4,2.9
+Purchases of newly built dwellings,Portugal,2025Q1,3.7
+Purchases of newly built dwellings,Portugal,2025Q2,3.8
+Purchases of newly built dwellings,Portugal,2025Q3,2.9
+Purchases of newly built dwellings,Portugal,2025Q4,2.6
+Purchases of newly built dwellings,Portugal,2026Q1,2.7
+Total,Germany,2019Q1,0.0
+Total,Germany,2019Q2,2.6
+Total,Germany,2019Q3,1.4
+Total,Germany,2019Q4,2.4
+Total,Germany,2020Q1,0.8
+Total,Germany,2020Q2,1.8
+Total,Germany,2020Q3,3.0
+Total,Germany,2020Q4,2.8
+Total,Germany,2021Q1,1.4
+Total,Germany,2021Q2,3.9
+Total,Germany,2021Q3,4.1
+Total,Germany,2021Q4,2.8
+Total,Germany,2022Q1,0.9
+Total,Germany,2022Q2,2.0
+Total,Germany,2022Q3,-0.6
+Total,Germany,2022Q4,-4.7
+Total,Germany,2023Q1,-3.0
+Total,Germany,2023Q2,-1.4
+Total,Germany,2023Q3,-1.5
+Total,Germany,2023Q4,-1.9
+Total,Germany,2024Q1,-0.4
+Total,Germany,2024Q2,1.4
+Total,Germany,2024Q3,0.8
+Total,Germany,2024Q4,0.1
+Total,Germany,2025Q1,1.4
+Total,Germany,2025Q2,0.9
+Total,Germany,2025Q3,0.7
+Total,Germany,2025Q4,-0.5
+Total,Germany,2026Q1,0.3
+Total,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2019Q1,0.4
+Total,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2019Q2,1.8
+Total,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2019Q3,1.4
+Total,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2019Q4,0.8
+Total,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2020Q1,1.1
+Total,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2020Q2,1.6
+Total,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2020Q3,1.4
+Total,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2020Q4,1.4
+Total,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2021Q1,1.4
+Total,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2021Q2,2.8
+Total,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2021Q3,3.2
+Total,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2021Q4,1.9
+Total,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2022Q1,1.8
+Total,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2022Q2,2.2
+Total,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2022Q3,0.9
+Total,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2022Q4,-1.8
+Total,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2023Q1,-0.9
+Total,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2023Q2,0.2
+Total,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2023Q3,0.2
+Total,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2023Q4,-0.7
+Total,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2024Q1,0.1
+Total,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2024Q2,1.8
+Total,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2024Q3,1.6
+Total,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2024Q4,0.6
+Total,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2025Q1,1.3
+Total,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2025Q2,1.6
+Total,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2025Q3,1.5
+Total,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2025Q4,0.5
+Total,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",2026Q1,0.9
+Total,Spain,2019Q1,1.6
+Total,Spain,2019Q2,1.1
+Total,Spain,2019Q3,1.6
+Total,Spain,2019Q4,-0.7
+Total,Spain,2020Q1,1.2
+Total,Spain,2020Q2,0.0
+Total,Spain,2020Q3,1.2
+Total,Spain,2020Q4,-0.8
+Total,Spain,2021Q1,0.5
+Total,Spain,2021Q2,2.4
+Total,Spain,2021Q3,2.1
+Total,Spain,2021Q4,1.2
+Total,Spain,2022Q1,2.6
+Total,Spain,2022Q2,1.9
+Total,Spain,2022Q3,1.7
+Total,Spain,2022Q4,-0.8
+Total,Spain,2023Q1,0.7
+Total,Spain,2023Q2,2.1
+Total,Spain,2023Q3,2.5
+Total,Spain,2023Q4,-1.0
+Total,Spain,2024Q1,2.7
+Total,Spain,2024Q2,3.6
+Total,Spain,2024Q3,2.8
+Total,Spain,2024Q4,1.8
+Total,Spain,2025Q1,3.6
+Total,Spain,2025Q2,4.0
+Total,Spain,2025Q3,2.9
+Total,Spain,2025Q4,1.8
+Total,Spain,2026Q1,3.5
+Total,France,2019Q1,0.0
+Total,France,2019Q2,1.2
+Total,France,2019Q3,2.3
+Total,France,2019Q4,0.3
+Total,France,2020Q1,1.0
+Total,France,2020Q2,1.5
+Total,France,2020Q3,2.0
+Total,France,2020Q4,1.3
+Total,France,2021Q1,0.8
+Total,France,2021Q2,1.9
+Total,France,2021Q3,3.0
+Total,France,2021Q4,1.0
+Total,France,2022Q1,0.8
+Total,France,2022Q2,1.7
+Total,France,2022Q3,2.7
+Total,France,2022Q4,-0.6
+Total,France,2023Q1,-0.9
+Total,France,2023Q2,-0.5
+Total,France,2023Q3,0.4
+Total,France,2023Q4,-2.7
+Total,France,2024Q1,-2.2
+Total,France,2024Q2,-0.2
+Total,France,2024Q3,1.6
+Total,France,2024Q4,-1.1
+Total,France,2025Q1,0.2
+Total,France,2025Q2,0.0
+Total,France,2025Q3,1.5
+Total,France,2025Q4,-0.8
+Total,France,2026Q1,-0.6
+Total,Italy,2019Q1,-0.6
+Total,Italy,2019Q2,1.4
+Total,Italy,2019Q3,-0.4
+Total,Italy,2019Q4,-0.2
+Total,Italy,2020Q1,0.8
+Total,Italy,2020Q2,3.2
+Total,Italy,2020Q3,-2.6
+Total,Italy,2020Q4,0.2
+Total,Italy,2021Q1,1.0
+Total,Italy,2021Q2,1.6
+Total,Italy,2021Q3,1.1
+Total,Italy,2021Q4,0.1
+Total,Italy,2022Q1,1.7
+Total,Italy,2022Q2,2.2
+Total,Italy,2022Q3,-1.1
+Total,Italy,2022Q4,-0.1
+Total,Italy,2023Q1,0.0
+Total,Italy,2023Q2,2.0
+Total,Italy,2023Q3,-0.1
+Total,Italy,2023Q4,-0.1
+Total,Italy,2024Q1,-0.1
+Total,Italy,2024Q2,3.2
+Total,Italy,2024Q3,0.7
+Total,Italy,2024Q4,0.6
+Total,Italy,2025Q1,-0.2
+Total,Italy,2025Q2,2.8
+Total,Italy,2025Q3,0.5
+Total,Italy,2025Q4,0.9
+Total,Italy,2026Q1,1.0
+Total,Portugal,2019Q1,3.6
+Total,Portugal,2019Q2,2.6
+Total,Portugal,2019Q3,2.1
+Total,Portugal,2019Q4,1.7
+Total,Portugal,2020Q1,3.8
+Total,Portugal,2020Q2,1.8
+Total,Portugal,2020Q3,-0.5
+Total,Portugal,2020Q4,2.6
+Total,Portugal,2021Q1,2.5
+Total,Portugal,2021Q2,2.9
+Total,Portugal,2021Q3,2.9
+Total,Portugal,2021Q4,2.7
+Total,Portugal,2022Q1,3.8
+Total,Portugal,2022Q2,3.1
+Total,Portugal,2022Q3,2.9
+Total,Portugal,2022Q4,1.1
+Total,Portugal,2023Q1,1.3
+Total,Portugal,2023Q2,3.1
+Total,Portugal,2023Q3,1.8
+Total,Portugal,2023Q4,1.3
+Total,Portugal,2024Q1,0.6
+Total,Portugal,2024Q2,3.9
+Total,Portugal,2024Q3,3.7
+Total,Portugal,2024Q4,3.0
+Total,Portugal,2025Q1,4.8
+Total,Portugal,2025Q2,4.8
+Total,Portugal,2025Q3,4.1
+Total,Portugal,2025Q4,4.0
+Total,Portugal,2026Q1,3.8
